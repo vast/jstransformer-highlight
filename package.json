@@ -1,0 +1,21 @@
+{
+  "name": "jstransformer-highlight",
+  "version": "0.0.1",
+  "description": "Client-side Highlight.js support for JSTransformers.",
+  "dependencies": {
+    "escape-html": "^1.0.1"
+  },
+  "keywords": [
+    "jstransformer"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "author": {
+    "name": "Vasily Polovnyov"
+  },
+  "license": "MIT"
+}
